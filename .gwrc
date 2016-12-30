@@ -1,0 +1,16 @@
+{
+  "title": "Jeroen",
+  "logo": "logo",
+  "subtitle": "freelance javascript ninja",
+  "highlight": "yellow",
+  "description": "I'm a freelance javascript developer specialized in providing both a front and back-end for complex data insights and visualisations. I provide data analytics, visualisation and flow. Ask me what that means in an email.",
+  "contact": {
+    "email": "jeroen.berrevoets@gmail.com",
+    "phone": "+32 (0) 494 90 67 43"
+  },
+  "sections": [{
+    "companies that run my code for": [
+      {"img": "bmw logo"}, {"img": "mediahuis logo"}
+    ]
+  }]
+}
